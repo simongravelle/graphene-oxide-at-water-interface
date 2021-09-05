@@ -354,7 +354,6 @@ for iij=1:length(pos)
 		copyfile('./data.lammps',file);
 		copyfile('./PARM.lammps',file);
 		copyfile('./input.*',file);
-		copyfile('./SurfEnergy.sh',file);
 	else
 		a=z0;
 		X=['../Data',num2str(abs(a))];
@@ -368,7 +367,6 @@ for iij=1:length(pos)
 		copyfile('./data.lammps',file);
 		copyfile('./PARM.lammps',file);
 		copyfile('./input.*',file);
-		copyfile('./SurfEnergy.sh',file);
 	end
 	
 end
