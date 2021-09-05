@@ -1,0 +1,4 @@
+# Time-averaged data for fix myat1
+# TimeStep v_zave v_zdes f_mytth[3] f_mytth
+1000 -6.1292 -6 0.646011 0.0943888
+2000 -6.36902 -6 1.84509 0.350473

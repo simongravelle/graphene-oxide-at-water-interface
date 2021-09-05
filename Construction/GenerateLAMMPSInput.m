@@ -53,7 +53,7 @@ X=['fix		myber2 OHH temp/berendsen 10 10 1\n'];fprintf(fid,X);
 X=['fix_modify	myber2 temp tOHH\n'];fprintf(fid,X);
 X=['fix		s1 H2O0 shake 1.0e-4 200 0 b 1 a 1\n'];fprintf(fid,X);
 fprintf(fid,'\n');
-X=['thermo 	10\n'];fprintf(fid,X);
+X=['thermo 	1000\n'];fprintf(fid,X);
 X=['timestep 	0.005\n'];fprintf(fid,X);
 X=['run		500\n'];fprintf(fid,X);
 fprintf(fid,'\n');
