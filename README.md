@@ -2,6 +2,8 @@
 
 This scipts can be used to measure the free energy profile of a GO nanoparticle at the interface between water and vapor.
 
+<img src="GrapheneOxideNanoparticle.png" width="100%">
+
 ## Step 1. LAMMPS input file generation
 
 Go in the consruction folder and run GenerateData.m using Matlab. It may also work with Octave. You can select a different graphene oxide nanoparticle from this [bank of nanoparticle](https://github.com/simongravelle/GrapheneOxideNanoparticle). It will create 29 folders and 29 input files, all corresponding to a different initial position for the GO nanoparticle.
