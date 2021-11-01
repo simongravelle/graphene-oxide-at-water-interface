@@ -20,5 +20,5 @@ To extract the positions of the particles from the generated data, run the wham 
 
 The PMF file contains the free energy profile along the z axis across the interface. The wham algorithm is from [GROSSFIELD lab](http://membrane.urmc.rochester.edu/?page_id=126)
 
-If you use this work, please site:
+If you use this work, please cite:
 [Gravelle S.](https://simongravelle.github.io/) and [Botto L.](https://bottogroup.wordpress.com/), [Adsorption of single and multiple graphene oxide nanoparticles at a water-vapor interface, Langmuir](https://pubs.acs.org/doi/10.1021/acs.langmuir.1c01902)
